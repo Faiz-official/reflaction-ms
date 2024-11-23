@@ -116,7 +116,7 @@ $(function () {
                         <div class="column col-lg-4 col-md-6 color-2 ">
                             <div>
                             <h4 class=" ">Our Salon is Most Popular</h4>
-                            <p class="para ">Eline Hair and Beauty Salon Offers - Beauty Services</p>
+                            <p class="para ">sarfaraz line Hair and Beauty Salon Offers - Beauty Services</p>
                             <a href="about.php" class="action-button btn mt-md-4 mt-3">Read more</a>
                         </div>
                     </div>
